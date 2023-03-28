@@ -60,3 +60,8 @@ ul li {
   padding-bottom: 6px;
   background-color: rgba(255, 215, 140, 0.397);
 }
+
+.highlighted-suggestion {
+  background-color: orangered;
+  cursor: pointer;
+}
